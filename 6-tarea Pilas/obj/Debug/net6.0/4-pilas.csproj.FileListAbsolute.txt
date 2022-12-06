@@ -1,0 +1,15 @@
+C:\projects\dotnet\6-tarea Pilas\bin\Debug\net6.0\4-pilas.exe
+C:\projects\dotnet\6-tarea Pilas\bin\Debug\net6.0\4-pilas.deps.json
+C:\projects\dotnet\6-tarea Pilas\bin\Debug\net6.0\4-pilas.runtimeconfig.json
+C:\projects\dotnet\6-tarea Pilas\bin\Debug\net6.0\4-pilas.dll
+C:\projects\dotnet\6-tarea Pilas\bin\Debug\net6.0\4-pilas.pdb
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\4-pilas.csproj.AssemblyReference.cache
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\4-pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\4-pilas.AssemblyInfoInputs.cache
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\4-pilas.AssemblyInfo.cs
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\4-pilas.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\4-pilas.dll
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\refint\4-pilas.dll
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\4-pilas.pdb
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\4-pilas.genruntimeconfig.cache
+C:\projects\dotnet\6-tarea Pilas\obj\Debug\net6.0\ref\4-pilas.dll

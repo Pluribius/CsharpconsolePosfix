@@ -1,0 +1,9 @@
+hacer un programa que sea capaz de leer una operacion y transformarla en operadores pos fija
+ejm (A+B)-----> AB+
+
+se debe verificar que hay al menos dos letras y como minimo un operador
+los operadores deben ser igual a la cantidad de letras en la expresion menos uno ejm A+B+C+D 4-letras 3-operadores
+
+por ahora van a ser solo letra's', no importa si se repita
+
+'%','(',')','*','+','-','/','^','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y',z
